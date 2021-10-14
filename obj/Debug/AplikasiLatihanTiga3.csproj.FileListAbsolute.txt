@@ -1,0 +1,9 @@
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csprojResolveAssemblyReference.cache
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.Cache
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+C:\Users\Enepel\Documents\Visual Studio 2015\Projects\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
